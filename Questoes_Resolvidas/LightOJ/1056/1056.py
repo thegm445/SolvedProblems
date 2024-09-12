@@ -1,0 +1,2 @@
+import math; exec("for i in range(1, int(input()) + 1): a, b = map(int, input().split(':')); h = math.atan(1.0 * a / b); r = 200 / (2 * math.sin(h) + math.pi - 2 * h); print(f'Case {i}: {2 * r * math.sin(h):.10f} {2 * r * math.cos(h):.10f}')") 
+# Reescreva esse código quando for gerar o 'PDF' e por favor deixe ele organizadamente em mútiplas linhas.

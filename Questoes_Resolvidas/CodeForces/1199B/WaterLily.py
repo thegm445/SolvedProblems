@@ -1,0 +1,1 @@
+print((lambda H, L: (L**2 - H**2) / (2 * H))(*map(int, input().split()))) 
