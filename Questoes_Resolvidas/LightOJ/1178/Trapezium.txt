@@ -1,0 +1,34 @@
+Trapezium
+
+    You are given the length of the four sides of a trapezium; 
+    you have to calculate the area. In geometry a 4-sided figure with 
+    exactly one pair of parallel sides is called a trapezium.
+
+    Input
+
+    Input starts with an integer T (≤ 20), denoting the number of test cases.
+
+    Each case contains four real numbers a b c d denoting the sides of the trapezium. 
+    Here a and c denote the parallel sides. You can safely assume that the given trapezium 
+    is valid. Each of the numbers will be positive and not more than 200. And no number 
+    contains more than 4 digits after the decimal point.
+
+    Output
+
+    For each case, print the case number and the area. Errors less than 10^-6 will be ignored.
+
+    Sample
+    Input
+
+    2
+    6 5 12 5.0
+    9 5 6 4
+
+    Output
+
+    Case 1: 36
+    Case 2: 30.0000000
+
+
+## Neste adicione a formula e uma explicacao. A imagem tambem.
+

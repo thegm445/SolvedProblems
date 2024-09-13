@@ -1,0 +1,43 @@
+INOROUT - Inside or outside?
+
+Given N points in counterclockwise order, which represent a convex polygon with 
+N edges and N vertexes, you must answer Q queries, each of them represents one point. 
+Use cross product to determine if the point is inside or outside the polygon.
+
+Input
+
+The first line contains 2 integers, N and Q, each of them lower than 10^3.
+
+The second line has 2*N integers, with vales between -10^6 and 10^6, separated by 
+a single space that represent the Xi and Yi coordinates of the i-th vertex of the polygon 
+in counterclockwise order.
+
+Format: X1 Y1 X2 Y2 ... XN YN
+
+Next you will receive Q lines. Each line has two integers X and Y separated by 
+space between -10^6 and 10^6 representing a query.
+
+Note:
+
+    It is guaranteed that the given polygon has no repeated vertices, but it may have collinear points.
+    If a point lies on an edge of the polygon it must be considered inside the polygon.
+
+Output
+
+For each query (in the given order) print a single line that contains a letter 'D' 
+if the point is inside the polygon or a letter 'F' if it's outside.
+Example
+
+Input:
+3 3
+0 0 3 0 0 3
+-1 -1
+0 0
+1 1
+
+Output:
+F
+D
+D
+
+## Adicione explicacao para os algoritmos de Cross Product e Contains_Cross_product
