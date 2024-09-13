@@ -113,4 +113,6 @@ print(f"{raio:.7f}")
 
 ## Complexidade
 
-A complexidade de tempo esperada do algoritmo de Welzl é O(N), onde N é o número de pontos. No entanto, a complexidade de tempo no pior caso é O(N!), mas isso é extremamente raro na prática devido à aleatoriedade na escolha do ponto p.
+A complexidade de tempo esperada do algoritmo de Welzl é O(N), onde N é o número de pontos. 
+No entanto, a complexidade de tempo no pior caso é O(N!), mas isso é extremamente raro na prática 
+devido à aleatoriedade na escolha do ponto p.

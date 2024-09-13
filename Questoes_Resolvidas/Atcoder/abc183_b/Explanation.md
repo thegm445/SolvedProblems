@@ -55,4 +55,5 @@ int main() {
 
 ## Complexidade
 
-A complexidade de tempo da solução é **O(1)**, pois realiza um número constante de operações para calcular a coordenada X.
+A complexidade de tempo da solução é **O(1)**, 
+pois realiza um número constante de operações para calcular a coordenada X.

@@ -63,4 +63,4 @@ int main() {
 
 ## Complexidade
 
-A complexidade de tempo da solução é **O(N² log N)**, onde N é o número de árvores, devido ao loop aninhado para calcular as áreas e à inserção no conjunto (que tem complexidade logarítmica). 
+A complexidade de tempo da solução é **O(N² log N)**, onde N é o número de árvores, devido ao loop aninhado para calcular as áreas e à inserção no conjunto (que tem complexidade logarítmica).

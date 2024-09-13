@@ -68,4 +68,3 @@ int main() {
 **Complexidade:**
 
 A complexidade da solução é **O(log(min(x, y)))** por caso de teste, devido à busca binária. A precisão do resultado depende do número de iterações na busca binária.
-

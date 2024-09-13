@@ -44,5 +44,3 @@ for _ in range(t):
 ## Complexidade
 
 A complexidade de tempo da solução é **O(n)**, onde 'n' é o número total de pontos, pois iteramos sobre a lista de pontos uma única vez para calcular as áreas máximas em cada lado.
-
-

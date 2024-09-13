@@ -42,4 +42,4 @@ int main() {
 
 ## Complexidade
 
-A complexidade de tempo da solução é **O(1)**, pois realizamos um número constante de operações para ordenar os segmentos e calcular o número de minutos. 
+A complexidade de tempo da solução é **O(1)**, pois realizamos um número constante de operações para ordenar os segmentos e calcular o número de minutos.
